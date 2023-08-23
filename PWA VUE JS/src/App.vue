@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1 className="text-red-500">Olá</h1>
+  <h1 className="text-red-500">Olá mundo</h1>
 </template>
 
 <style>
